@@ -23,7 +23,6 @@ export const firebaseDevAdminConfig = {
     "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f2xie%40world-sport-action-dev-c1019.iam.gserviceaccount.com"
 };
 
-
 export const firebaseDevCertAdminConfig = {
     projectId: "world-sport-action-dev-c1019",
     client_email: "firebase-adminsdk-f2xie@world-sport-action-dev-c1019.iam.gserviceaccount.com",
